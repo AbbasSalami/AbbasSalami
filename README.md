@@ -11,8 +11,8 @@ With a knack for quick learning, I have delved into AI and machine learning on m
 
 ---
 
-## GitHub Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-AbbasSalami&theme=dark&background=000000)](https://git.io/streak-stats)
+## 📈 GitHub Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbbasSalami&theme=blueberry-duo&hide_border=true&card_width=500)](https://git.io/streak-stats)
 
 ---
 
