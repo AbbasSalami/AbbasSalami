@@ -12,7 +12,10 @@ With a knack for quick learning, I have delved into AI and machine learning on m
 ---
 
 ## 📈 GitHub Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbbasSalami&theme=blueberry-duo&hide_border=true&card_width=500)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbbasSalami&show_icons=true&theme=blueberry&hide_border=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbbasSalami&theme=blueberry&hide_border=true&card_width=500)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbbasSalami&layout=donut&show_icons=true&theme=blueberry&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
