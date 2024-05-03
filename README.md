@@ -7,7 +7,7 @@
 
 Hi there! 👋 I'm Abbas, an avid learner and enthusiast in the fields of signal processing, machine learning, and AI. I hold a Ph.D. in computer science 🎓, along with a B.Sc. in Electrical Engineering and an M.Sc. in Biomedical Engineering. Currently based in the UK 🇬🇧, I find the intersection of AI and neuroscience 🧠 particularly fascinating.
 
-With a knack for quick learning, I have delved into AI and machine learning on my own, continuously expanding my knowledge and skills in these areas. Alongside my own studies, I thoroughly enjoy teaching computer science 👨‍🏫 and sharing my expertise with others. I have a passion for cloud computing ☁️ and I am actively preparing to obtain the AWS Cloud Practitioner certificate. 
+With a knack for quick learning, I have explored AI and machine learning on my own, continuously expanding my knowledge and skills in these areas. Alongside my own studies, I thoroughly enjoy teaching computer science 👨‍🏫 and sharing my expertise with others.
 
 ---
 
@@ -19,4 +19,4 @@ With a knack for quick learning, I have delved into AI and machine learning on m
 
 ---
 
-Feel free to explore my repositories and reach out to me if you have any questions or collaboration opportunities. Let's connect and dive into the exciting world of AI together! 🚀🤖
+Feel free to explore my repositories and reach out to me if you have any questions or collaboration opportunities. Let's connect and explore the exciting world of AI together! 🚀🤖
