@@ -5,7 +5,9 @@
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-abbas--salami-orange)](https://www.researchgate.net/profile/Abbas-Salami-2)
 
 
-Hi there! 👋 I'm Abbas, an avid learner and enthusiast in the fields of signal processing, machine learning, and AI. I hold a Ph.D. in computer science 🎓, along with a B.Sc. in Electrical Engineering and an M.Sc. in Biomedical Engineering. Currently based in the UK 🇬🇧, and since completing my Ph.D., I’ve worked at the intersection of **health and data** — applying AI in the **health insurance industry** to promote healthier lives, and now focusing on **biomarker discovery** to better understand disease risk.  
+Hi there! 👋 I'm Abbas, an avid learner and enthusiast in the fields of signal processing, machine learning, and AI. I hold a Ph.D. in computer science 🎓, along with a B.Sc. in Electrical Engineering and an M.Sc. in Biomedical Engineering. 
+
+Currently based in the UK 🇬🇧, and since completing my Ph.D., I’ve worked at the intersection of **health and data** — applying AI in the **health insurance industry** to promote healthier lives, and now focusing on **biomarker discovery** to better understand disease risk.  
 
 With a knack for quick learning, I have explored AI and machine learning on my own, continuously expanding my knowledge and skills in these areas. Alongside my own studies, I thoroughly enjoy teaching computer science 👨‍🏫 and sharing my expertise with others.
 
