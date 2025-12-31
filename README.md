@@ -2,7 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abbas--salami-blue)](https://www.linkedin.com/in/abbas-salami-a635844b/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-abbas--salami-brightgreen)](https://scholar.google.com/citations?user=i7gRuJMAAAAJ&hl=en)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-abbas--salami-orange)](https://www.researchgate.net/profile/Abbas-Salami-2)
 
 
 Hi there! 👋 I'm Abbas, an avid learner and enthusiast in the fields of signal processing, machine learning, and AI. I hold a Ph.D. in computer science 🎓, along with a B.Sc. in Electrical Engineering and an M.Sc. in Biomedical Engineering. 
