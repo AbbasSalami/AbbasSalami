@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:4285F4&height=140&section=header&text=Hi,%20I'm%20Abbas%20Salami%20%F0%9F%91%8B&fontColor=ffffff&fontSize=36&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Abbas%20Salami&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20Biomedical%20AI&descSize=20&descAlignY=58&animation=fadeIn" width="100%" />
 
 ### Machine Learning Engineer | Biomedical AI | Biomarker Discovery | Signal Processing
 
@@ -213,4 +213,4 @@ I enjoy collaborating on projects involving:
 
 If any of these topics interest you, feel free to connect.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,100:0077B5&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%" />
